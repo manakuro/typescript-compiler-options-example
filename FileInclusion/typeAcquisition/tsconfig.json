@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {},
+  "typeAcquisition": {
+    "include": ["react"]
+  }
+}

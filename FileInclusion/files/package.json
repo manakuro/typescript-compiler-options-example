@@ -1,0 +1,11 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
+}
