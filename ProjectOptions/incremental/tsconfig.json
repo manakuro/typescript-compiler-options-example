@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "tsBuildInfoFile": "./path/my.tsbuildinfo"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
