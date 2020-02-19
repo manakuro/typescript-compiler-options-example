@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "outFile": "./dist/bundle.js",
+    "module": "amd"
+  }
+}
