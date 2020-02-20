@@ -1,0 +1,11 @@
+{
+  "name": "references",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.1.3",
+    "typescript": "^3.7.5"
+  }
+}
