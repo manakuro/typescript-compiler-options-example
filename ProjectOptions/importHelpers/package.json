@@ -1,0 +1,13 @@
+{
+  "name": "importHelpers",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "tslib": "^1.11.0"
+  }
+}
