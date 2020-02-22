@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "mapRoot": "https://your-website.com/sourcemap/"
+  }
+}

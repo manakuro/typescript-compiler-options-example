@@ -1,0 +1,11 @@
+{
+  "name": "esModuleInterop",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.4",
+    "typescript": "^3.7.5"
+  }
+}

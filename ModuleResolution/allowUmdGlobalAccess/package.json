@@ -1,0 +1,13 @@
+{
+  "name": "preserveSymlinks",
+  "version": "1.0.0",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

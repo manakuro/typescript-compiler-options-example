@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "types": [
+      "node",
+      "./myTypes/global"
+    ]
+  },
+  "include": ["src/**/*"]
+}

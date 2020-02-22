@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "rootDirs": ["./root1", "./root2"]
+  }
+}
